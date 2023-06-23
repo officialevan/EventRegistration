@@ -21,7 +21,7 @@ The Event Registration System is a web application that allows users to register
 
 To run the Event Registration System locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/event-registration.git`
+1. Clone the repository: `git clone https://github.com/officialevan/EventRegistration.git`
 2. Navigate to the project directory: `cd event-registration`
 3. Open the `index.html` file in your web browser.
 
